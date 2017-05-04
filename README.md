@@ -2,4 +2,4 @@
 
 ![image](https://github.com/SpTTlv/PickerChooseViewSwift/blob/master/image.png)
 
-手势解锁
+Swift  选择器
